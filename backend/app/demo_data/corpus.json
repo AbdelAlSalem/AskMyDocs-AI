@@ -1,0 +1,27 @@
+{
+  "documents": [
+    {
+      "id": "project-orbit",
+      "filename": "project-orbit.pdf",
+      "page_count": 2,
+      "chunk_count": 2,
+      "size_bytes": 50404,
+      "uploaded_at": "2000-01-01T00:00:00+00:00",
+      "sha256": "3fb373a2b883180cf9aa06b9c10cd2922d5e970c503cd9d648ae526aadea1c67"
+    }
+  ],
+  "passages": [
+    {
+      "document_id": "project-orbit",
+      "page_number": 1,
+      "chunk_id": "project-orbit:1:1",
+      "text": "ASKMYDOCS AI / SYNTHETIC SAMPLE\nPROJECT ORBIT\n1 / 2\nProject Orbit\nLaunch brief\nLaunch date\nThe launch date for Project Orbit is 18 June 2027.\nPilot team\nThe pilot team has 24 volunteers.\nThe volunteers will test the reading room registration system."
+    },
+    {
+      "document_id": "project-orbit",
+      "page_number": 2,
+      "chunk_id": "project-orbit:2:1",
+      "text": "ASKMYDOCS AI / SYNTHETIC SAMPLE\nPROJECT ORBIT\n2 / 2\nأوربت\nبرنامج الورشة التجريبية\nمكان الورشة\nستقام الورشة التجريبية في مكتبة النور في عمّان.\nمدة الورشة\nتستمر الورشة ساعتين.\nيتعلم المشاركون كيفية استخدام نظام التسجيل."
+    }
+  ]
+}

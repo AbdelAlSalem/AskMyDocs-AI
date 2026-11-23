@@ -1,0 +1,92 @@
+[
+  {
+    "id": "simple_launch",
+    "category": "simple",
+    "question": "What is the launch date for Project Orbit?",
+    "evidence": [{ "page": 1, "quote": "18 June 2027" }]
+  },
+  {
+    "id": "simple_volunteers",
+    "category": "simple",
+    "question": "How many volunteers are in the pilot team?",
+    "evidence": [{ "page": 1, "quote": "24 volunteers" }]
+  },
+  {
+    "id": "translated_workshop_duration",
+    "category": "simple",
+    "question": "How long does the workshop last?",
+    "evidence": [{ "page": 2, "quote": "ساعتين" }]
+  },
+  {
+    "id": "paraphrase_launch",
+    "category": "paraphrase",
+    "question": "Which day is Orbit due to kick off?",
+    "evidence": [{ "page": 1, "quote": "18 June 2027" }]
+  },
+  {
+    "id": "paraphrase_volunteers",
+    "category": "paraphrase",
+    "question": "How big is the pilot crew?",
+    "evidence": [{ "page": 1, "quote": "24 volunteers" }]
+  },
+  {
+    "id": "paraphrase_workshop_venue",
+    "category": "paraphrase",
+    "question": "Where should I go for the trial session?",
+    "evidence": [{ "page": 2, "quote": "مكتبة النور في عمّان" }]
+  },
+  {
+    "id": "cross_page_launch_and_workshop",
+    "category": "cross-page",
+    "question": "When does the project launch, and where is the workshop?",
+    "evidence": [{ "page": 1, "quote": "18 June 2027" }, { "page": 2, "quote": "مكتبة النور في عمّان" }]
+  },
+  {
+    "id": "cross_page_paraphrase",
+    "category": "cross-page",
+    "question": "When will Orbit kick off, and which venue will host the training?",
+    "evidence": [{ "page": 1, "quote": "18 June 2027" }, { "page": 2, "quote": "مكتبة النور في عمّان" }]
+  },
+  {
+    "id": "arabic_workshop_venue",
+    "category": "arabic",
+    "question": "أين ستقام الورشة التجريبية؟",
+    "evidence": [{ "page": 2, "quote": "مكتبة النور في عمّان" }]
+  },
+  {
+    "id": "arabic_launch_paraphrase",
+    "category": "arabic",
+    "question": "متى يبدأ مشروع أوربت؟",
+    "evidence": [{ "page": 1, "quote": "18 June 2027" }]
+  },
+  {
+    "id": "arabic_venue_paraphrase",
+    "category": "arabic",
+    "question": "أين ستُعقد الجلسة التدريبية؟",
+    "evidence": [{ "page": 2, "quote": "مكتبة النور في عمّان" }]
+  },
+  {
+    "id": "arabic_cross_page",
+    "category": "cross-page",
+    "question": "اذكر تاريخ انطلاق المشروع وموقع الجلسة التدريبية؟",
+    "evidence": [{ "page": 1, "quote": "18 June 2027" }, { "page": 2, "quote": "مكتبة النور في عمّان" }]
+  },
+  {
+    "id": "unsupported_budget",
+    "category": "unsupported",
+    "question": "What is the pilot team's catering budget?",
+    "evidence": []
+  },
+  {
+    "id": "unsupported_launch_time",
+    "category": "unsupported",
+    "question": "What time does Orbit launch on 18 June 2027?",
+    "evidence": []
+  },
+  {
+    "id": "unsupported_arabic_workshop_fee",
+    "category": "unsupported",
+    "question": "ما تكلفة حضور الورشة في مكتبة النور؟",
+    "evidence": []
+  }
+]
